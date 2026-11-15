@@ -1,0 +1,14 @@
+# Abaikan folder virtual environment
+handGesture/
+venv/
+env/
+
+# Abaikan cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Abaikan file sistem & editor
+.DS_Store
+Thumbs.db
+.vscode/

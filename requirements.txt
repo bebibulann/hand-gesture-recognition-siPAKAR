@@ -1,0 +1,5 @@
+Library Python yang perlu diinstal:
+- flask
+- opencv-python
+- mediapipe
+- numpy
