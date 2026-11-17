@@ -147,7 +147,7 @@ Seluruh **14 skenario pengujian fungsional** (mulai dari variasi jarak dekat/jau
 ---
 
 ## 📄 Dokumentasi Proyek
-Laporan lengkap proyek (analisis kebutuhan, perancangan sistem, implementasi kode, tabel *Confusion Matrix*, serta hasil *Blackbox Testing*) tersedia di dalam repositori ini pada file laporan proyek yang disertakan.
+Laporan lengkap proyek (analisis kebutuhan, perancangan sistem, implementasi kode, tabel *Confusion Matrix*, serta hasil *Blackbox Testing*) tersedia di dalam repositori ini pada file laporan proyek yang disertakan di dalam folder docs/
 
 ---
 
